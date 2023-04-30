@@ -7,10 +7,14 @@ We set $N_1$, $N_2$, $N_3$, $n_1$, $n_2$, $n_3$ to 55, 13, 34, 1, 20, 10, respec
 
 Details of the above indicators are summarized in Table 1.
 
-<p align="center">
-  <img width="600" height="300" src=./equation.png>
-</p>
 
 <p align="center">
   <img width="800" height="300" src=./technical_indicator_table.png>
 </p>
+
+where the formulas are shown below:
+
+<p align="center">
+  <img width="600" height="300" src=./equation.png>
+</p>
+

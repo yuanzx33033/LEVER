@@ -8,7 +8,7 @@ We set $N_1$, $N_2$, $N_3$, $n_1$, $n_2$, $n_3$ to 55, 13, 34, 1, 20, 10, respec
 Details of the above indicators are summarized in the following table.
 
 <p align="center">
-  <img width="900" height="300" src=./technical_indicator_table.png>
+  <img width="900" height="300" src=./equation.png>
 </p>
 
 <p align="center">

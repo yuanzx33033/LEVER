@@ -12,5 +12,5 @@ Details of the above indicators are summarized in the following table.
 </p>
 
 <p align="center">
-  <img width="600" height="300" src=./technical_indicator_table.png>
+  <img width="800" height="300" src=./technical_indicator_table.png>
 </p>

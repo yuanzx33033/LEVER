@@ -15,6 +15,6 @@ Details of the above indicators are summarized in Table 1.
 where the formulas are shown below:
 
 <p align="center">
-  <img width="600" height="300" src=./equation.png>
+  <img width="600" height="300" src=./formulas.png>
 </p>
 

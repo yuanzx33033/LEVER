@@ -30,6 +30,6 @@ Likewise, we develop five distinct features to study such volatility pattern:
 
 The transaction intensity reveals the dominating power of buy or sell, which can be reflected from order queue in terms of five unique features:
 ```math 
-\$\textbf{x}^{oq}_{t} = \{x^{1, oq}_{t}, x^{2, oq}_{t},$ $x^{3, oq}_{t},
-x^{4, oq}_{t}, x^{5, oq}_{t}\}\in \mathbb{R}^{5 \times 1}\$.
+\textbf{x}^{oq}_{t} = \{x^{1, oq}_{t}, x^{2, oq}_{t},$ $x^{3, oq}_{t},
+x^{4, oq}_{t}, x^{5, oq}_{t}\}\in \mathbb{R}^{5 \times 1}.
 ```

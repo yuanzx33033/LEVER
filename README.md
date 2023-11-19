@@ -3,5 +3,5 @@
 This is a table of techinical indicators used in LEVER architecture as described in the paper.
 
 <p align="center">
-  <img width="850" height="380.5" src=./technical_indicator_table.png>
+  <img width="950" height="380.5" src=./technical_indicator_table.png>
 </p>

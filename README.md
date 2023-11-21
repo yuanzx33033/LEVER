@@ -11,7 +11,7 @@ This is a table of techinical indicators used in LEVER architecture as described
 
 **Security trend.** 
 
-The $N$-period exponential moving average function (ema(N)) smooths out price data by creating a constantly updated average price. Here, we adopt a slow line $ema$($N_1$) and a fast line $ema$($N_2$) to create a `tunnel', and observe whether a check line $ema$($N_3$) trespasses the tunnel, where $N_1 > N_3 > N_2 > 0$. According to the ``Vegas Tunnel Method'', security price is probably in a price uptrend if check line crosses the tunnel from bottom to top and downtrend otherwise. 
+The $N$-period exponential moving average function ($ema$($N$)) smooths out price data by creating a constantly updated average price. Here, we adopt a slow line $ema$($N_1$) and a fast line $ema$($N_2$) to create a `tunnel', and observe whether a check line $ema$($N_3$) trespasses the tunnel, where $N_1 > N_3 > N_2 > 0$. According to the ``Vegas Tunnel Method'', security price is probably in a price uptrend if check line crosses the tunnel from bottom to top and downtrend otherwise. 
 We introduce five different features to quantify such trend pattern:
 ```math 
 \textbf{x}^{tr}_{t} = \{x^{1, tr}_{t}, x^{2, tr}_{t}, x^{3, tr}_{t}, x^{4, tr}_{t}, x^{5, tr}_{t}\}\in \mathbb{R}^{5 \times 1}
